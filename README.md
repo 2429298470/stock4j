@@ -1,7 +1,9 @@
 # stock4j
-股票数据采集、加工，用于股票指标量化分析
+股票数据采集、加工，用于股票指标量化分析  [主页](http://www.sigmagu.com/)
 
 Tushare是有名的python财经数据接口包，但作为股票技术分析爱好者，长期以来采用Java语言的股票数据API很少，yahoo finance api由于某种原因，不能用于A股市场。 本api主要实现对股票数据的采集、加工、整理，方便金融分析人员的指标分析、回测等，极大地减轻在数据获取方面的工作量。
+
+![stock4j](http://www.sigmagu.com/img/stock4j.jpg)
 
 注意：本API并未得到新浪等财经网站的授权和使用，仅作为个人学习和交流。
 
